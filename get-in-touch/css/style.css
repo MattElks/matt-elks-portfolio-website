@@ -1,0 +1,78 @@
+/**************** BASE STYLES ***************/
+
+body{
+    width: 1300px;
+    font-family: 'Lato', sans-serif;
+    background-color: #FFFAFF;
+}
+.half-width{
+    width: 650px;
+    float:left;
+}
+
+
+/*************** MAIN *******************/
+
+
+.main-img{
+    padding-top: 150px;
+    padding-left: 50px;
+}
+
+.title{
+    float:left;
+    padding-left: 80px;
+    padding-top: 200px;
+}
+
+.title h3{
+    font-size: 16px;
+    color: #364652;
+}
+
+.nav{
+    float:right;
+    padding-top: 200px;
+    padding-left: 50px;
+}
+
+.nav ul li{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+.nav ul li{
+    font-size: 16px;
+    color: #364652;
+}
+
+span{
+    color: #8B939C;
+}
+
+.contact-info{
+    clear: both;
+    text-align: center;
+    padding-top: 130px;
+}
+
+p{
+    font-size: 16px;
+    color: #8B939C;
+}
+
+a{
+    font-size: 16px;
+    color: #364652;
+    text-decoration: none;
+}
+
+.social-media{
+    clear: both;
+    padding-left: 237px;
+    padding-top: 130px;
+}
+
+.social-media a img{
+    padding-left: 20px;
+}

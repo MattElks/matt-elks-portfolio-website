@@ -1,0 +1,70 @@
+/********** BASE STYLES **********/
+
+body{
+    width: 1300px;
+    font-family: 'Lato', sans-serif;
+    background-color: #FFFAFF;
+}
+
+.full-width{
+    width: 1300px;
+    text-align: center;
+}
+
+.half-width{
+    width: 650px;
+    float:left;
+}
+
+/********** HEADER *************/
+
+.title{
+    float:left;
+    padding-left: 400px;
+    padding-top: 200px;
+}
+
+.title h3 a{
+    font-size: 16px;
+    color: #364652;
+    text-decoration: none;
+}
+
+.nav{
+    float: left;
+    padding-top: 205px;
+    padding-left: 200px;
+}
+
+.nav ul li{
+    display: inline-block;
+    padding-left: 50px;
+}
+
+.nav ul li a{
+    font-size: 16px;
+    color: #364652;
+    text-decoration: none;
+}
+
+span{
+    color: #8B939C;
+}
+
+/********************* MAIN ********************/
+
+.first-row{
+    clear: both;
+    text-align: center;
+}
+
+.thumbnail{
+    display: inline-block;
+    padding-left: 40px;
+    padding-top: 150px;
+}
+
+p{
+    font-size: 16px;
+    color: #364652;
+}
